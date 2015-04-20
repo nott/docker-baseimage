@@ -22,7 +22,7 @@ Installation
 Usage
 -----
 
-    This image is intended to be used as a base image for [nott][]'s other Docker images. But one can explore what's in the box using:
+This image is intended to be used as a base image for [nott][]'s other Docker images. But one can explore what's in the box using:
 
     docker run -it --rm nott/baseimage /bin/bash
 
