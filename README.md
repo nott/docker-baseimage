@@ -16,6 +16,7 @@ Installation
 
 1.  Install [Docker][].
 2.  Download [automated build][] from public [Docker Hub Registry][]:
+
     docker pull nott/baseimage
 
 Usage
